@@ -1,0 +1,46 @@
+li {
+	list-style-type: none;
+}
+
+#tweets {
+	/*font-family: helvetica, sans-serif;*/
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: black;
+	width: 350px;
+	position: absolute;
+	left: 900px;
+}
+*/
+
+.s-quote-author-username {
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: 100;
+	color: #adadad;
+}
+
+/*.s-quote-text a {
+	text-decoration: none;
+	color: #adadad;
+}*/
+
+#tweets a {
+	text-decoration: none;
+	color: #adadad;
+	/*color: black;*/
+}
+
+#tweets a:hover {
+	color: black;
+	/*color: #adadad;*/
+}
+
+/*#link {
+	font-size: 11px;
+}*/
+
+#tweet-1, #tweet-2 {
+	padding-bottom: 40px;
+
+}
+
